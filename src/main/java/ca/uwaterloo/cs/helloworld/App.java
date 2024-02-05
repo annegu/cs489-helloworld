@@ -8,8 +8,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello, world!" );
-        int gonna_break = 100 / 0;
+        // int gonna_break = 100 / 0;
 
-        System.out.println( gonna_break );
+        // System.out.println( gonna_break );
     }
 }
